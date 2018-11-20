@@ -86,7 +86,7 @@ C和指针PointersOnC :
 >　http://pan.baidu.com/s/1o6M34Ie	
 
 C陷阱与缺陷 : 
->　http://pan.baidu.com/s/1gd2yYsj	
+>　https://pan.baidu.com/s/1eTpAemI	密码：ksdz
 
 C语言入门经典(第4版) : 
 >　http://pan.baidu.com/s/1ntntEUP	
@@ -139,19 +139,19 @@ JAVA核心技术卷2 高级特征 :
 >　http://pan.baidu.com/s/1ntBaIiH	密码：4tn9
 
 Java核心技术(卷1) 基础知识(原书第9版) : 
->　http://pan.baidu.com/s/1kTiE32Z	密码：dhvd
+>　https://pan.baidu.com/s/1boI5Ppl	密码：dhvd
 
 Java虚拟机规范(Java SE 7版) : 
->　http://pan.baidu.com/s/1i3BiLbZ	密码：vhke
+>　http://pan.baidu.com/s/1i3BiLbZ	密码：gcmg
 
 深入理解Java虚拟机 JVM高级特性与最佳实践(第2版) : 
 >　http://pan.baidu.com/s/1pJ9Attx	密码：vr7h
 
-Spring实战(第3版) : 
->　http://pan.baidu.com/s/1sjrVsrb	密码：fybk
+Spring实战(第4版) : 
+>　https://pan.baidu.com/s/1hrVgSp2	密码：6jse
 
 Java并发编程实战 : 
->　http://pan.baidu.com/s/1mgrzBBi	
+>　https://pan.baidu.com/s/1kTzIjlX	
 
 深入剖析Tomcat : 
 >　http://pan.baidu.com/s/1hqBk5Kg	
@@ -166,7 +166,7 @@ Java网络编程(第3版) :
 >　http://pan.baidu.com/s/1o6x1gG6	
 
 Java编程思想(第4版) : 
->　http://pan.baidu.com/s/1bn3nfsF	
+>　https://pan.baidu.com/s/1aNtq4DOQjbx07ysV-I0FkA  密码：5bwd	
 
 Head First Servlets and JSP(第2版) (英） : 
 >　http://pan.baidu.com/s/19Zhyl	
@@ -338,7 +338,7 @@ Android移动开发一本就够  :
 
 Android应用开发揭秘  :  
 
-    http://pan.baidu.com/s/1pJ4k7VX密码：6ts6
+    https://pan.baidu.com/s/1eRky27w
 
 Android 4游戏编程入门经典  :  
 
@@ -404,11 +404,11 @@ C++ Primer(中文版)(第5版)  :
 
 C++ Primer Plus中文版(第6版)  :  
 
-    http://pan.baidu.com/s/1kTnzgsZ密码：5g91
+    https://pan.baidu.com/s/1cnleoQ密码：77rl
 
 C++ GUI Qt 4编程(第2版)  :  
 
-    http://pan.baidu.com/s/1gd7jl4J
+    https://pan.baidu.com/s/153uw7
 
 深入理解C++11 C++11新特性解析与应用  :  
 
@@ -654,11 +654,11 @@ Go语言编程  :
 
 CSS Web设计高级教程(第2版)  :  
 
-    	http://pan.baidu.com/s/1bnkqGaz	
+    	https://pan.baidu.com/s/1o7EOobg	
 
 HTML5秘籍  :  
 
-    	http://pan.baidu.com/s/1rJX3S	
+    	https://pan.baidu.com/s/1miCQDmS	
 
 Head First HTML5 Programming(英文版)  :  
 
@@ -670,7 +670,7 @@ Head First HTML5 Programming(英文版)  :
 
 HTML5移动Web开发指南  :  
 
-    	http://pan.baidu.com/s/1pJyfdPp		密码：sqs1
+    	https://pan.baidu.com/s/1lY56UFxx7r2Afc39n_q87g
 
 写给Web开发人员看的HTML5教程  :  
 
@@ -682,7 +682,7 @@ HTML5移动Web开发指南  :
 
 HTML5与CSS3实战指南  :  
 
-    	http://pan.baidu.com/s/1jGJoarW		密码：bgqe
+    	https://pan.baidu.com/s/1SNDwXvYE_lL6PTxqXyFTfg		密码：6n3k
 
 Web编程入门经典 HTML、XHTML和CSS(第2版)  :  
 
@@ -690,7 +690,7 @@ Web编程入门经典 HTML、XHTML和CSS(第2版)  :
 
 响应式Web设计 HTML5和CSS3实战  :  
 
-    	http://pan.baidu.com/s/1zPFYR	
+    	https://pan.baidu.com/s/1dERShSP	
 
 CSS权威指南 第3版  :  
 
@@ -770,7 +770,7 @@ Objective-C程序设计 第4版  :
 
 程序员的思维修炼 开发认知潜能的九堂课  :  
 
-    http://pan.baidu.com/s/1mg6YYpy
+    https://pan.baidu.com/s/12apsd
 
 图灵程序设计丛书 代码的未来  :  
 
@@ -798,7 +798,7 @@ Objective-C程序设计 第4版  :
 
 浪潮之巅  :  
 
-    http://pan.baidu.com/s/1tHlvT
+    https://pan.baidu.com/s/1slxJlCD
 
 黑客与画家  :  
 
@@ -904,7 +904,7 @@ JavaScript DOM编程艺术 第2版  :
 
 编写可维护的JavaScript  :  
 
-    	http://pan.baidu.com/s/19ZgXa		密码：69xu
+    	https://pan.baidu.com/s/1i3Gr06D
 
 JavaScript高级程序设计3  :  
 
@@ -934,31 +934,31 @@ Linux/UNIX系统编程手册  :
 
 Linux Shell脚本攻略  :  
 
-    http://pan.baidu.com/s/1hqmOrU8
+    https://pan.baidu.com/s/1dFihE5z
 
 UNIX网络编程(卷1) 套接字联网API(第3版)  :  
 
-    http://pan.baidu.com/s/1qWjkoAK
+    https://pan.baidu.com/s/1qWp2hHy
 
 Linux程序设计(第4版)  :  
 
-    http://pan.baidu.com/s/1c0gkSRQ
+    https://pan.baidu.com/s/1dE8mSxz密码：g6ah
 
 LINUX设备驱动程序(第3版)  :  
 
-    http://pan.baidu.com/s/1EKRXc
+    https://pan.baidu.com/s/1nu6gsVR密码：0hjf
 
 Linux命令行与shell脚本编程大全(第2版)  :  
 
-    http://pan.baidu.com/s/1ntLQai1
+    https://pan.baidu.com/s/1qYGKFN2
 
 深入理解LINUX内核(第3版)(涵盖2.6版)  :  
 
-    http://pan.baidu.com/s/1qWAU4Lu密码：xm2q
+    https://pan.baidu.com/s/1jI3l7r4密码：d42o
 
 Linux内核完全注释  :  
 
-    http://pan.baidu.com/s/168wL8
+    https://pan.baidu.com/s/16XJB3
 
 A Practical Guide to Linux Commands Editors and Shell Programming  :  
 
@@ -966,7 +966,7 @@ A Practical Guide to Linux Commands Editors and Shell Programming  :
 
 鸟哥的Linux私房菜-基础学习篇  :  
 
-    http://pan.baidu.com/s/1oX0MC
+    https://pan.baidu.com/s/1UtCDOvvwxgjBZWhed2-35w
 
 鸟哥的linux私房菜-服务器架设  :  
 
